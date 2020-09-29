@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rumpi-chat/precache-manifest.d3f2781d6cce7d783b90ee5d53405dd1.js"
+  "/rumpi-chat/precache-manifest.7921faa3181ec82d459e7b4850a3b9fe.js"
 );
 
 self.addEventListener('message', (event) => {
