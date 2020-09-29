@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1dbb33efd89fd5aeff8412c8568e02b9",
+    "revision": "e52ac8b8f152eea94c732cc1cd9b0aeb",
     "url": "/rumpi-chat/index.html"
   },
   {
-    "revision": "895eb00f63e1f29cdcfd",
+    "revision": "4c99274a0609a9b498ab",
     "url": "/rumpi-chat/static/css/main.d5544067.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rumpi-chat/static/js/2.38ed8b45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "895eb00f63e1f29cdcfd",
-    "url": "/rumpi-chat/static/js/main.19a0e298.chunk.js"
+    "revision": "4c99274a0609a9b498ab",
+    "url": "/rumpi-chat/static/js/main.0c0d246f.chunk.js"
   },
   {
     "revision": "2b6eeda2eca99f752678",
