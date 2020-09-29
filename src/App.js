@@ -60,7 +60,7 @@ function Signout() {
 function Chatroom() {
   // Get collection
   const messagesRef = firestore.collection('messages');
-  const query = messagesRef.orderBy('createdAt').limit(25);
+  const query = messagesRef.orderBy('createdAt', 'desc').limit(25);
   // Collection State
   const [messages] = useCollectionData(query, { idField: 'id' });
   // Form State
@@ -90,7 +90,7 @@ function Chatroom() {
   return (
     <div className="chatroomPage">
       <div className="chat-bubble">
-        {messages && messages.map((msg) => <ChatMessage key={msg.id} message={msg} />)}
+        {messages && messages.reverse().map((msg) => <ChatMessage key={msg.id} message={msg} />)}
         <div ref={scrollBottom}></div>
       </div>
       <form onSubmit={sendMessage}>
