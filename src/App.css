@@ -77,6 +77,8 @@
 }
 
 .chat-bubble {
+    display: flex;
+    flex-direction: column-reverse;
     padding: 15px;
     height: 100%;
     max-height: calc(100% - 60px);
