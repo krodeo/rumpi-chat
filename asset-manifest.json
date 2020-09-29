@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rumpi-chat/static/css/main.d5544067.chunk.css",
+    "main.js": "/rumpi-chat/static/js/main.19a0e298.chunk.js",
+    "main.js.map": "/rumpi-chat/static/js/main.19a0e298.chunk.js.map",
+    "runtime-main.js": "/rumpi-chat/static/js/runtime-main.f797f809.js",
+    "runtime-main.js.map": "/rumpi-chat/static/js/runtime-main.f797f809.js.map",
+    "static/js/2.38ed8b45.chunk.js": "/rumpi-chat/static/js/2.38ed8b45.chunk.js",
+    "static/js/2.38ed8b45.chunk.js.map": "/rumpi-chat/static/js/2.38ed8b45.chunk.js.map",
+    "index.html": "/rumpi-chat/index.html",
+    "precache-manifest.d3f2781d6cce7d783b90ee5d53405dd1.js": "/rumpi-chat/precache-manifest.d3f2781d6cce7d783b90ee5d53405dd1.js",
+    "service-worker.js": "/rumpi-chat/service-worker.js",
+    "static/css/main.d5544067.chunk.css.map": "/rumpi-chat/static/css/main.d5544067.chunk.css.map",
+    "static/js/2.38ed8b45.chunk.js.LICENSE.txt": "/rumpi-chat/static/js/2.38ed8b45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f797f809.js",
+    "static/js/2.38ed8b45.chunk.js",
+    "static/css/main.d5544067.chunk.css",
+    "static/js/main.19a0e298.chunk.js"
+  ]
+}

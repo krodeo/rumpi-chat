@@ -1,1 +1,0 @@
-Chat app built using React and Firebase.
